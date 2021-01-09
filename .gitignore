@@ -1,0 +1,38 @@
+!.gitkeep
+.git
+
+# general
+.DS_Store
+*~
+*.bak
+.java-version
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# maven
+target
+
+# eclipse
+.classpath
+.project
+.settings
+
+# idea
+*.swp
+.idea
+*.iml
